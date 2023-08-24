@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: com.pocan.pticket.pTicket
+Class-Path: json-simple-1.1.1.jar JDA-5.0.0-alpha.12.jar javax.mail-1.6.
+ 2.jar junit-4.10.jar jsr305-3.0.2.jar opus-java-natives-1.1.1.jar commo
+ ns-collections4-4.4.jar kotlin-stdlib-common-1.4.0.jar kotlin-stdlib-1.
+ 4.10.jar jna-4.4.0.jar activation-1.1.1.jar slf4j-api-1.7.36.jar annota
+ tions-23.0.0.jar nv-websocket-client-2.14.jar mysql-connector-j-8.0.33.
+ jar jsoup-1.14.3.jar jackson-databind-2.13.2.2.jar opus-java-1.1.1.jar 
+ okio-2.8.0.jar dotenv-java-3.0.0.jar protobuf-java-3.21.9.jar okhttp-4.
+ 9.3.jar hamcrest-core-1.1.jar trove4j-3.0.3.jar jackson-core-2.13.2.jar
+  opus-java-api-1.1.1.jar jackson-annotations-2.13.2.jar
+
